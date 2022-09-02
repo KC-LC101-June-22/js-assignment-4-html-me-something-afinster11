@@ -30,7 +30,11 @@ p {
     color: red;
   }
 
-  #testP.funParagraph {
+  #testP{
+    color: green;
+  }
+  
+  .funParagraph {
     color: green;
   }
   
