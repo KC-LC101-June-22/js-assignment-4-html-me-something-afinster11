@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  div {
+    padding-top: 50px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+  }
+
+  h2 {
+    color: blue;
+  }
+
+  .label {
+    color: gray;
+  }
+
+  #title {
+    text-decoration-color: crimson;
+  }
+  
