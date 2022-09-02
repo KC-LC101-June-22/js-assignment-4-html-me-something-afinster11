@@ -6,6 +6,11 @@ p {
     margin-left: 80px;
   }
 
+  body {
+    margin: 8;
+    display: block;
+  }
+
   img {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -28,7 +33,7 @@ p {
     color: purple;
   }
 
-  #title {
-    color: crimson;
+  #mainHeading {
+    color: red;
   }
   
