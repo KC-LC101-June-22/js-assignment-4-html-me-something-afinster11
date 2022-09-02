@@ -1,1 +1,40 @@
 /* Write your CSS here! */
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+
+  body {
+    margin: 8;
+    display: block;
+  }
+
+  img {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  }
+
+  h2 {
+    color: blue;
+  }
+
+  .label {
+    color: purple;
+  }
+
+  #mainHeading {
+    color: red;
+  }
+
+  #testP{
+    color: green;
+  }
+  
+  .funParagraph {
+    color: green;
+  }
+  
